@@ -1,2 +1,2 @@
-# Pythan-Study
+# Python-Study
 PythonCodes
